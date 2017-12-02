@@ -1,12 +1,14 @@
 GENERAL
 *******
-Add to Github
 -----
+Create good README in Github
 Incremental data loads
+Create post
 
 
 LENGTHS
 *******
+Add a length order ounter in session
 Merge consecutive RESTs
 -----
 Review pandas error: A value is trying to be set on a copy of a slice from a DataFrame.
@@ -21,13 +23,11 @@ Consider transforming 2 lengths to 3 lengths
 Implement method to indicate double lengths that should be split
 Implement method to indicate lengths that should be merged
 Automatically split/merge?
------
-Review pandas error: A value is trying to be set on a copy of a slice from a DataFrame.
-Link sets to lengths (surrogate id)
 
 
 SETS
 ****
+Add a set order in session
 -----
 Create sessions table?
 How to deal with consecutive RESTs (right now only first is accounted for in after_rest - correct in prev_rest, though)

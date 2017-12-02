@@ -1,13 +1,13 @@
 WHAT INFO DO I HAVE?
 ********************
 - Session
-	date/hour						time	distance
+	date/hour									time	distance
 
 - Set
-	date			order in session	style	time	distance	strokes	     rest before	rest after
+	date	interval	order in interval	order in session	style	time	distance	strokes	     rest before	rest after
 
 - Length
-	date	order in set	order in session	style	time	distance	strokes
+	date	interval	order in interval	order in session	style	time	distance	strokes
 
 
 GLOBAL SESSIONS
@@ -17,7 +17,7 @@ Best SESSION pace ever?
 
 [DONE] Evolution of SESSION pace? (done assuming sessions in different days)
 
-[DISCARD] Evolution of SESSION time? I show pace and distance evolutions, do I need time?
+[x] Evolution of SESSION time? I show pace and distance evolutions, do I need time?
 
 [DONE] Evolution of SESSION distance? (done assuming sessions in different days)
 
@@ -36,7 +36,7 @@ GLOBAL SETS
 
 [DONE] Evolution of SET time (all set times)?
 
-==> [DOING] Evolution of SET time (only top set times)?
+Evolution of SET time (only top set times)?
 
 [DONE] Relationship between pace and strokes.
 	- scatter plot: x is strokes/100m, y is pace, color/size is distance (color is time, size is distance)
@@ -44,13 +44,15 @@ GLOBAL SETS
 [DONE] Effect of the moment of the day over the distance/time/pace of the SET?
 	- scatter plot: x is hour, y is pace, color/size is distance (color is time, size is distance)
 
+[DONE] How time and strokes are distributed
+	- histograms of time, strokes, ... (something more statistical...)
+
 Relationship between previous prev_rest|after_rest and pace/time/distance
 	- scatter plot: x is prev_rest|after_rest, y is pace, color/size is distance (color is time, size is distance)
 
 Virtual best SET?
 	- (Only for short sets to avoid combinations) 100m FREE, 100m BREAST, ...
 
-histograms of time, strokes, ... (semetithing more statistical...)
 
 
 
