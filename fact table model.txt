@@ -1,0 +1,8 @@
+session_datetime	interval	length	distance	style			time		strokes
+01/01/20117	07:13	1			1		25			BREASTSTROKE	34.687		16
+01/01/2017	07:13	1			2		25			BREASTSTROKE	31.244		15
+01/01/2017	07:13	1			-		-			REST			65.591		-
+01/01/2017	07:13	2			1		25			FREESTYLE		22.313		13
+01/01/2017	07:13	2			2		25			FREESTYLE		21.446		14
+01/01/2017	07:13	2			3		25			FREESTYLE		18.591		11
+...
